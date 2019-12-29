@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Yelp-Recommender/static/css/main.5a4ee508.chunk.css",
+    "main.js": "/Yelp-Recommender/static/js/main.0b9d2f45.chunk.js",
+    "main.js.map": "/Yelp-Recommender/static/js/main.0b9d2f45.chunk.js.map",
+    "runtime-main.js": "/Yelp-Recommender/static/js/runtime-main.710b6b33.js",
+    "runtime-main.js.map": "/Yelp-Recommender/static/js/runtime-main.710b6b33.js.map",
+    "static/js/2.07052e59.chunk.js": "/Yelp-Recommender/static/js/2.07052e59.chunk.js",
+    "static/js/2.07052e59.chunk.js.map": "/Yelp-Recommender/static/js/2.07052e59.chunk.js.map",
+    "index.html": "/Yelp-Recommender/index.html",
+    "precache-manifest.8848b788bf15bdf398c178553303ce76.js": "/Yelp-Recommender/precache-manifest.8848b788bf15bdf398c178553303ce76.js",
+    "service-worker.js": "/Yelp-Recommender/service-worker.js",
+    "static/css/main.5a4ee508.chunk.css.map": "/Yelp-Recommender/static/css/main.5a4ee508.chunk.css.map",
+    "static/js/2.07052e59.chunk.js.LICENSE": "/Yelp-Recommender/static/js/2.07052e59.chunk.js.LICENSE",
+    "static/media/yelp-black.jpg": "/Yelp-Recommender/static/media/yelp-black.8c5dfcbd.jpg",
+    "static/media/StartPage.css": "/Yelp-Recommender/static/media/yelp_image.6b87688b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.710b6b33.js",
+    "static/js/2.07052e59.chunk.js",
+    "static/css/main.5a4ee508.chunk.css",
+    "static/js/main.0b9d2f45.chunk.js"
+  ]
+}

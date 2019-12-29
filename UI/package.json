@@ -2,7 +2,7 @@
   "name": "yelp-recommender",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/Yelp-Recommender",
+  "homepage": "https://impressiveHen.github.io/Yelp-Recommender",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
